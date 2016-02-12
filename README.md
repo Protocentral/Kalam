@@ -1,6 +1,7 @@
 ProtoCentral Kalam IoT
 ======================
  [![Kalam IoT](https://www.protocentral.com/img/p/3/6/4/5/3645.jpg)  
+ [!(Kalam IOT](https://www.protocentral.com/img/p/3/6/4/6/3646.jpg)
 *ProtoCentral Kalam IoT (PC-4356)*](https://www.protocentral.com/iot/935-kalam-out-of-box-iot.html?search_query=kalam&results=1)
  
 Internet of Things or IOT is the new hot chic in the market. People seek to connect everything, from their pets to their garage doors to the Internet. The power of connected devices helps one to control it from anywhere in the world. On the other hand, Makers out there are seeking a platform that is easier to use, less cumbersome and more importantly easy on their pockets. With so many platforms out there based on the popular ESP8266, an extremely low cost WiFi module, it is indeed getting difficult for one to choose the right platform. Most commercially available modules are in the form of breakout boards. These require you to work with the limited I/O pins and more importantly will require an additional Arduino board or flashing the ESP8266 core. This can make life miserable for most makers. 
