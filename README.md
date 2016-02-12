@@ -8,7 +8,10 @@ To make it easier for developers and users alike we made a new genre of IoT plat
 This tiny inexpensive hulk of an IoT module in its first avatar (Kalam V1) comes as a single board with power support through USB or an external source through the RAW pin. In the second version we will introduce support for battery packs (and include a couple of battery packs) that can make your life easier as a developer/maker. 
 We love our scientists and to commemorate one of the greatest scientists who also served as the most ebullient presidents of India, we aptly named our product Kalam after the late Dr. A.P.J Abdul Kalam. He chose to show the path to millions of students in India and abroad. Kindled their imaginations with his oratory skills and his writings. On occasion of his birthday we present this great platform, we hope will give the IoT space the necessary fillip. 
 Inline with Make in India initiatives this is one of our first products of many we will develop, that will help makers and creators across the world!
- 
+
+ [!(Kalam1 IOT](https://www.protocentral.com/img/p/3/6/4/6/3646.jpg) 
+  *ProtoCentral Kalam IoT (PC-4356)*](https://www.protocentral.com/iot/935-kalam-out-of-box-iot.html?search_query=kalam&results=1)
+
 Features Overload!
 -------------------
 *	Slide switch - Serial communication support to work on ESP or Atmega328 module individually
