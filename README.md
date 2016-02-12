@@ -4,13 +4,11 @@ ProtoCentral Kalam IoT
  *ProtoCentral Kalam IoT (PC-4356)*](https://www.protocentral.com/iot/935-kalam-out-of-box-iot.html?search_query=kalam&results=1)
 
 Internet of Things or IOT is the new hot chic in the market. People seek to connect everything, from their pets to their garage doors to the Internet. The power of connected devices helps one to control it from anywhere in the world. On the other hand, Makers out there are seeking a platform that is easier to use, less cumbersome and more importantly easy on their pockets. With so many platforms out there based on the popular ESP8266, an extremely low cost WiFi module, it is indeed getting difficult for one to choose the right platform. Most commercially available modules are in the form of breakout boards. These require you to work with the limited I/O pins and more importantly will require an additional Arduino board or flashing the ESP8266 core. This can make life miserable for most makers. 
-To make it easier for developers and users alike we made a new genre of IoT platform called the OOB IoT (Out of the Box IoT)! Kalam V1 is an OOB IoT platform. It is an easy to use Arduino based platform that has an integrated ESP8266 module. Just open the box and get started on your projects without having to configure a breakout borad to work with an Arduino! 
+ To make it easier for developers and users alike we made a new genre of IoT platform called the OOB IoT (Out of the Box IoT)! Kalam V1 is an OOB IoT platform. It is an easy to use Arduino based platform that has an integrated ESP8266 module. Just open the box and get started on your projects without having to configure a breakout borad to work with an Arduino! 
 This tiny inexpensive hulk of an IoT module in its first avatar (Kalam V1) comes as a single board with power support through USB or an external source through the RAW pin. In the second version we will introduce support for battery packs (and include a couple of battery packs) that can make your life easier as a developer/maker. 
 We love our scientists and to commemorate one of the greatest scientists who also served as the most ebullient presidents of India, we aptly named our product Kalam after the late Dr. A.P.J Abdul Kalam. He chose to show the path to millions of students in India and abroad. Kindled their imaginations with his oratory skills and his writings. On occasion of his birthday we present this great platform, we hope will give the IoT space the necessary fillip. 
 Inline with Make in India initiatives this is one of our first products of many we will develop, that will help makers and creators across the world!
 
- [!(Kalam1 IOT](https://www.protocentral.com/img/p/3/6/4/6/3646.jpg) 
-  *ProtoCentral Kalam IoT (PC-4356)*](https://www.protocentral.com/iot/935-kalam-out-of-box-iot.html?search_query=kalam&results=1)
 
 Features Overload!
 -------------------
