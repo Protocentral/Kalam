@@ -12,8 +12,8 @@
 #include <protoESP8266WiFiShield.h>
 #include <SoftwareSerial.h>
 
-#define ESP8266_SW_RX  6 // ESP8266 UART0 RXI goes to Arduino pin 9   //7
-#define ESP8266_SW_TX 7 // ESP8266 UART0 TXO goes to Arduino pin 8   //6
+#define ESP8266_SW_RX 7 // ESP8266 UART0 RXI goes to Arduino pin 9   //7
+#define ESP8266_SW_TX 6 // ESP8266 UART0 TXO goes to Arduino pin 8   //6
 
 SoftwareSerial ESP8266Serial1(ESP8266_SW_TX, ESP8266_SW_RX);
 const char AT_RESTART[] =  "AT+RST";
